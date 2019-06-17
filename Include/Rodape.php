@@ -23,8 +23,6 @@
 
                 <h5 class = "white-text">Links</h5>
 
-                <p class = "grey-text text-lighten-4" style = "font-size: 27px;">
-
                     <ul>
                     
                         <li><a class = "grey-text text-lighten-3" href = "Servicos.php" style = "font-size: 15px;">Serviços</a></li>
@@ -33,9 +31,7 @@
                         <li><a class = "grey-text text-lighten-3" href = "Sobre.php" style = "font-size: 15px;">Sobre</a></li>
 
                     </ul>
-
-                </p>    
-
+                
             </div>
 
         </div>
